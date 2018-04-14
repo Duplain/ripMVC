@@ -1,0 +1,2 @@
+# ripMVC
+MVC class
